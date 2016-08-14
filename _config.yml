@@ -1,4 +1,3 @@
-layout_spectrum: 0.6272570940200239
 typography_spectrum: 0.45873326784931123
 color:
   brandStrength: 0.9838717402890325
@@ -11,4 +10,6 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.6272570940200239
 name: The Trade Library
+title: An Architect's Resource
